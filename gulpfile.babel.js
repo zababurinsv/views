@@ -2,7 +2,7 @@ import gulp from 'gulp';
 import sass from "gulp-sass";
 import node from 'node-sass';
 import autoprefixer from "gulp-autoprefixer";
-import replace from './gulp-modules/replace.js'
+import replace from './gulp_modules/replace.js'
 import {exec} from "child_process";
 import minify from "gulp-minify";
 import del from "del";
