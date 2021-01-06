@@ -665,7 +665,7 @@ customElements.define('varan-header',
             } else {
               const script = document.createElement('script')
               script.type = 'module'
-              script.src = `./static/html/components/${obj.tagName.toLowerCase()}/${obj.tagName.toLowerCase()}.mjs`
+              script.src = `/static/html/components/${obj.tagName.toLowerCase()}/${obj.tagName.toLowerCase()}.mjs`
               script.setAttribute('async', '')
               script.onload = resolve
               script.onerror = reject

@@ -744,8 +744,8 @@ div#external{
           this.NodeList = this.childNodes
           this.NodeList.prototype = Array.prototype
           this.HTMLElement = window.HTMLElement
-          let Jason = await loader('./static/html/components/component_modules/cell-index/jason.mjs','Jason')
-          let ST = await loader('./static/html/components/component_modules/cell-index/st.mjs','ST')
+          let Jason = await loader('/static/html/components/component_modules/cell-index/jason.mjs','Jason')
+          let ST = await loader('/static/html/components/component_modules/cell-index/st.mjs','ST')
           let url = {}
           if(obj.this.dataset.url){
             url =  obj.this.dataset.url
