@@ -72,7 +72,7 @@ config['account']['web'] = 'https://account.zababurinsv.now.sh'
 config['account']['cell'] = 'https://account.zababurinsv.now.sh'
 config['account']['dapp'] = '3N8n4Lc8BMsPPyVHJXTivQWs7ER61bB7wQn'
 config['account']['this'] = `${config['account']['dappaddress']}?matches=`
-config['account']['testnodes'] = 'https://testnodes.wavesnodes.com'
+config['account']['testnodes'] = 'https://nodes-testnet.wavesnodes.com'
 config['account']['sse'] = 'https://account.zababurinsv.now.sh/stream'
 
 

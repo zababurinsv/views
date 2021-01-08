@@ -9,7 +9,7 @@ testObject.staticProperty.wallet = []
 testObject.staticProperty.bank ={}
 testObject.staticProperty.bank ={
     '/':'3N8n4Lc8BMsPPyVHJXTivQWs7ER61bB7wQn',
-    testnodes: 'https://testnodes.wavesnodes.com',
+    testnodes: 'https://nodes-testnet.wavesnodes.com',
     seed:"zone tower six sound oblige horn false blue enroll flash pact all",
     clients: [],
 }
