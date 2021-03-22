@@ -12,7 +12,7 @@ config['now']['0.6'] = 'https://soundlane-b2b652bpi.now.sh'
 
 config['mongo'] = {}
 // config['mongo']['local'] = 'http://localhost:3003'
-config['mongo']['web'] = 'https://web3-auction.now.sh/'
+config['mongo']['web'] = 'https://web3-auction.now.sh'
 // config['mongo']['web'] = 'http://localhost:3003'
 // config['mongo']['web'] = 'http://localhost:3003'
 
